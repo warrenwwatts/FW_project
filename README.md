@@ -3,8 +3,8 @@ Food Waste data analysis project for not-for-profit Outside2Inside
 Analysis of food wasted from California agricultural output. Done in R with R studio.
 Most data from documents produced by USDA/CDFA. 
 
-Project files
-R source code
+Project files 
+R source code:
 foodwaste_source.R - R source file for visualizations 
 food_waste_slides.Rmd -R markdown file for generating pdf slides.
 food_waste_blog.Rmd - R markdown file for an HTML blog.
