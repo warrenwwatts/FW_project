@@ -1,0 +1,8 @@
+commodity us_rank ca_share marketings_klbs value_k ca_rank2013 ca_rank2014
+Cattle 7 5 2422500 3719100 4 4
+Chickens NA NA NA 37 71 70
+Pigs 29 NA 44770 37809 56 53
+Honey 5 7 12480 25334 62 61
+Dairy 1 19 42337000 9358087 1 1
+Turkeys 8 4 310200 227997 29 28
+Eggs 9 5 4551000 419135 20 19
