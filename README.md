@@ -1,5 +1,5 @@
 # FW_project
-Food Waste data analysis project for not-for-profit Outside2Inside
+Food Waste data analysis project for not-for-profit Outside2Inside<br>
 Analysis of food wasted from California agricultural output. Done in R with R studio.
 Most data from documents produced by USDA/CDFA. 
 
@@ -14,8 +14,8 @@ food_waste_blog.html
 food_waste_slides.pdf
 
 txt/csv source files for data - place in same directory as code:
-calcrop2016.txt
-calcrop2015.txt
+calcrop2016.txt<br>
+calcrop2015.txt<br>
 calcrop2014.txt
 calcrop2013.txt
 calcrop2012.txt
