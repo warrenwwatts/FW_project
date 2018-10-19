@@ -1,30 +1,30 @@
 # FW_project
 Food Waste data analysis project for not-for-profit Outside2Inside<br>
-Analysis of food wasted from California agricultural output. Done in R with R studio.
-Most data from documents produced by USDA/CDFA. 
-
-Project files 
-R source code:
-foodwaste_source.R - R source file for visualizations 
-food_waste_slides.Rmd -R markdown file for generating pdf slides.
-food_waste_blog.Rmd - R markdown file for an HTML blog.
-
-Output files:
-food_waste_blog.html
-food_waste_slides.pdf
-
-txt/csv source files for data - place in same directory as code:
+Analysis of food wasted from California agricultural output. Done in R with R studio.<br>
+Most data from documents produced by USDA/CDFA. <br>
+<br>
+Project files <br>
+R source code:<br>
+foodwaste_source.R - R source file for visualizations <br>
+food_waste_slides.Rmd -R markdown file for generating pdf slides.<br>
+food_waste_blog.Rmd - R markdown file for an HTML blog.<br>
+<br>
+Output files:<br>
+food_waste_blog.html<br>
+food_waste_slides.pdf<br>
+<br>
+txt/csv source files for data - place in same directory as code:<br>
 calcrop2016.txt<br>
 calcrop2015.txt<br>
-calcrop2014.txt
-calcrop2013.txt
-calcrop2012.txt
-calanim2016.txt
-calanim2015.txt
-calanim2014.txt
-calanim2013.txt
-calanim2012.txt
-cal_rev_cost_2012_2016.txt
-calcropwaste.txt
-cal_animal_waste.csv
-cal_crop_type.csv
+calcrop2014.txt<br>
+calcrop2013.txt<br>
+calcrop2012.txt<br>
+calanim2016.txt<br>
+calanim2015.txt<br>
+calanim2014.txt<br>
+calanim2013.txt<br>
+calanim2012.txt<br>
+cal_rev_cost_2012_2016.txt<br>
+calcropwaste.txt<br>
+cal_animal_waste.csv<br>
+cal_crop_type.csv<br>
